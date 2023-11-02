@@ -111,7 +111,7 @@ public class zad2 {
 
 
         };
-
+// ta ta ta ta ta
 
 
         arrayWithOnlyEvenNumbers(array);
