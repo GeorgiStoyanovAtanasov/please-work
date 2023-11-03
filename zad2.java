@@ -11,7 +11,7 @@ public class zad2 {
 
         for (int i = 0; i < array.length; i++) {
 
-// why the f*ck do i have to do this
+
 
             for (int j =0; j < array.length; j++) {
 
@@ -111,7 +111,7 @@ public class zad2 {
 
 
         };
-
+// ta ta ta ta ta
 
 
         arrayWithOnlyEvenNumbers(array);
