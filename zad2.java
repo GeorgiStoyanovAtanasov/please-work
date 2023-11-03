@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class zad2 {
     public static void arrayWithOnlyEvenNumbers(int[][] array) {
-
+// dum dum dum dum dum
 
 
         int count = 0;
