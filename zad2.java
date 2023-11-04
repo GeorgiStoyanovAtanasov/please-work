@@ -16,7 +16,7 @@ public class zad2 {
             for (int j =0; j < array.length; j++) {
 //еаргдфг
 
-// ауепхфиугвбнаисергбхн
+
                 if (array[i][j] % 2 == 0) {
 //asdf
 
