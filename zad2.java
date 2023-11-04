@@ -12,13 +12,13 @@ public class zad2 {
         for (int i = 0; i < array.length; i++) {
 
 
-
+// aeiruhgbai
             for (int j =0; j < array.length; j++) {
+//еаргдфг
 
-//аерфгергефдг
 
                 if (array[i][j] % 2 == 0) {
-
+//asdf
 
 
                     count++;
