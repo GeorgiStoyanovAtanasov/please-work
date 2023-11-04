@@ -18,7 +18,7 @@ public class zad2 {
 
 // ауепхфиугвбнаисергбхн
                 if (array[i][j] % 2 == 0) {
-
+//asdf
 
 
                     count++;
